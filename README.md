@@ -1,6 +1,6 @@
 # DShield Internship Portfolio
 
-Portfolio for my SANS Internet Storm Center(ISC) Internship, showcasing the setup and analysis of a DShield honeypot, integration with ELK Stack, and Cyber Threat Intelligence (CTI) using OpenCTI.
+Portfolio for my SANS Internet Storm Center (ISC) Internship, showcasing the setup and analysis of a DShield honeypot, integration with ELK Stack, and Cyber Threat Intelligence (CTI) using OpenCTI.
 
 ## Overview
 - **DShield Setup**: Deployed a honeypot on AWS EC2, overcoming Raspberry Pi networking challenges.

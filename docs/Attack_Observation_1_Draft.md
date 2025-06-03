@@ -11,11 +11,11 @@ Getting the DShield Sensor up and running on AWS was a crucial first step toward
 
 After meeting with my mentor handler and learning about his DShield-SIEM implementation[7], I plan to deploy my own ELK Stack in an Ubuntu VM in order to collect and parse the Honeypot logs. Additionally, I have a larger goal of integrating with the OpenCTI platform[8] and applying Cyber Threat Intelligence (CTI) to my log analysis.
 
-[1] https://vilros.com/products/vilros-raspberry-pi-5-complete-starter-kit?srsltid=AfmBOorYKU8QL3kxdTQcJKGzmJr4t3zY2ZYF6QTUHxpGFvTYJGYWX_Pj
-[2] https://github.com/DShield-ISC/dshield/blob/main/docs/install-instructions/Raspbian.md
-[3] https://youtu.be/fMqhoNnyvmE?si=R2ckKEsmNiBoSNRC
-[4] https://github.com/DShield-ISC/dshield/blob/968d65ddf3c88858749437353fc9bbb1e650ae66/docs/install-instructions/AWS.md
-[5] https://isc.sans.edu/myweblogs/#
-[6] https://www.statista.com/statistics/967365/worldwide-cloud-infrastructure-services-market-share-vendor/#:~:text=In%20the%20fourth%20quarter%20of,with%2010%20percent%20market%20share
-[7] https://github.com/bruneaug/DShield-SIEM
-[8] https://filigran.io/solutions/open-cti/
+-[1] https://vilros.com/products/vilros-raspberry-pi-5-complete-starter-kit?srsltid=AfmBOorYKU8QL3kxdTQcJKGzmJr4t3zY2ZYF6QTUHxpGFvTYJGYWX_Pj
+-[2] https://github.com/DShield-ISC/dshield/blob/main/docs/install-instructions/Raspbian.md
+-[3] https://youtu.be/fMqhoNnyvmE?si=R2ckKEsmNiBoSNRC
+-[4] https://github.com/DShield-ISC/dshield/blob/968d65ddf3c88858749437353fc9bbb1e650ae66/docs/install-instructions/AWS.md
+-[5] https://isc.sans.edu/myweblogs/#
+-[6] https://www.statista.com/statistics/967365/worldwide-cloud-infrastructure-services-market-share-vendor/#:~:text=In%20the%20fourth%20quarter%20of,with%2010%20percent%20market%20share
+-[7] https://github.com/bruneaug/DShield-SIEM
+-[8] https://filigran.io/solutions/open-cti/
